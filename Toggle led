@@ -1,4 +1,4 @@
-/* p2_1.c Toggle Green LED (LD2) on STM32F446RE Nucleo64 board at 1
+/* Toggle Green LED (LD2) on STM32F446RE Nucleo64 board at 1
 Hz *
 * This program toggles LD2 for 0.5 second ON and 0.5 second OFF * by
 writing 0 or 1 to bit 5 of the Port A Output Data Register. * The
